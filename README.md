@@ -1,2 +1,2 @@
-# rainwatr.github.io
-CS155 Assignment
+# Rainwaters Homepage
+Welcome in.
